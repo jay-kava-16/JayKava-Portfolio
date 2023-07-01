@@ -1,5 +1,5 @@
-# Jay Kava Portfolio (Single Page Website)
+# Jay Kava Portfolio 
 
-## Technolgy
+Website link : https://jay-kava-16.github.io/JayKava-Portfolio/
 
-* Html, CSS, JavaScript, Bootstrap
+
